@@ -10,12 +10,7 @@ The objective of this assignment is to learn:
 - The implementation of the environment.
 - The implementation of Value iteration and Q-values.
 
-## Assignment Rules
 
-- **Due date:** 19/3.
-- **Group size:** 4 - 5 students.
-- **File name:** 1ID_2ID_3ID_4ID.py
-- **Cheating policy:** Any cheats will result in a zero grade.
 
 ## Assignment Description
 
